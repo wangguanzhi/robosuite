@@ -41,6 +41,16 @@ TEXTURES = {
     "Glass": "glass.png",
     "FeltGray": "gray-felt.png",
     "Lemon": "lemon.png",
+    "Table01": "table01.png",
+    "Table02": "table02.png",
+    "Table03": "table03.png",
+    "Table04": "table04.png",
+    "Table05": "table05.png",
+    "Table06": "table06.png",
+    "Table07": "table07.png",
+    "Table08": "table08.png",
+    "Table09": "table09.png",
+    "Table10": "table10.png",
 }
 
 ALL_TEXTURES = TEXTURES.keys()
